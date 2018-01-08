@@ -10,7 +10,7 @@
             "icon":"fa-lightbulb-o",
             "name":"test",
             "version":"1.0.0",
-            "url":"https://github.com/BaReinhard/volumio-plugins/tree/gh-pages/plugins/audio_interface/sspari_bluetooth/sspari_bluetooth.zip",
+            "url":"https://github.com/BaReinhard/volumio-plugins/sspari_bluetooth.zip",
             "license":"ISC",
             "description":"test plugin",
             "details":"plugin for documentation purposes",
