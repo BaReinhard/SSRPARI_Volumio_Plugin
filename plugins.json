@@ -1,0 +1,22 @@
+{
+    "prettyName":"ssrpari_plugin",
+    "name":"ssrpari_plugin",
+    "id":"ssrpari0",
+    "description":"",
+    "plugins":
+    [
+        {
+            "prettyName":"SSRPARI",
+            "icon":"fa-lightbulb-o",
+            "name":"test",
+            "version":"1.0.0",
+            "url":"https://github.com/BaReinhard/volumio-plugins/tree/gh-pages/plugins/audio_interface/sspari_bluetooth/sspari_bluetooth.zip",
+            "license":"ISC",
+            "description":"test plugin",
+            "details":"plugin for documentation purposes",
+            "author":"BaReinhard",
+            "screenshots":[{"image":"","thumb":""}],
+            "updated":"1-8-2018"
+        }
+    ]
+}
